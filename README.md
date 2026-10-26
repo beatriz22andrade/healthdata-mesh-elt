@@ -43,3 +43,6 @@ Armazenamento (S3): Exportação dos dados processados (formato tabular) para a 
 
 ### 4. Organização do projeto no Notion (Método ágil Kanban)
 <img width="1562" height="772" alt="Kanban-AnaliseCardiaca" src="https://github.com/user-attachments/assets/c46febea-3f8c-4d3c-81e6-6e581e1fb067" />
+
+
+O pipeline processou 1.500 registros médicos distribuídos em 2 domínios de dados em menos de 3 segundos. A transformação resultou na extração de 5 KPIs estratégicos de saúde (incluindo médias vitais e ranking de gravidade), permitindo uma visão analítica rápida e confiável para a tomada de decisão.
